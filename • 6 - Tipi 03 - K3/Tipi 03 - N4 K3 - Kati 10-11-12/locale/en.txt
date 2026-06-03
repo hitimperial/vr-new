@@ -1,0 +1,36 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_9541BC0D_AED5_B0EB_41DD_73482A6D9F61.source = https://www.facebook.com/SectionArchitecture/
+LinkBehaviour_91CEF5E5_AED5_935B_41DE_4D5628A0B42F.source = https://www.facebook.com/SectionArchitecture/
+LinkBehaviour_92568E53_AEDB_F17F_41D6_BF6BB3942269.source = https://www.facebook.com/hitimperial
+LinkBehaviour_92653122_AED4_90D8_41C4_643A858A8A48.source = https://www.facebook.com/hitimperial
+
+## Media
+
+### Title
+panorama_A02F8390_B28A_FCFA_41D6_F03BC28B4A0A.label = 15
+panorama_BDB888F9_B28A_EC2A_41C9_2162A14338D6.label = 16
+panorama_BDB9DF07_B28A_E5E6_41C7_4CE13E422BD2.label = 17
+panorama_BDB97508_B28A_A5E9_41D8_40D19EA88967.label = 18
+panorama_BDB95A3D_B28A_AC2B_41E6_4913ED88AB6E.label = 19
+panorama_BDB9309B_B28A_BCEF_41B1_F3CA90BF1557.label = 20
+panorama_BDB91637_B28A_A426_41E3_2B23087B355B.label = 21
+
+## Skin
+
+### Image
+Image_BA4D2E02_AEE4_5A55_41DE_25AD3CC0CCE9.url = skin/Image_BA4D2E02_AEE4_5A55_41DE_25AD3CC0CCE9_en.png
+Image_BA4D2E02_AEE4_5A55_41DE_25AD3CC0CCE9_mobile.url = skin/Image_BA4D2E02_AEE4_5A55_41DE_25AD3CC0CCE9_mobile_en.png
+Image_BC5DA293_AEAC_4A7B_41D8_94EE6F817D73.url = skin/Image_BC5DA293_AEAC_4A7B_41D8_94EE6F817D73_en.png
+Image_BC5DA293_AEAC_4A7B_41D8_94EE6F817D73_mobile.url = skin/Image_BC5DA293_AEAC_4A7B_41D8_94EE6F817D73_mobile_en.png
+
+## Tour
+
+### Description
+tour.description = "SECTION ARCHITECTURE" sh.p.k
+
+### Title
+tour.name = "SECTION ARCHITECTURE" sh.p.k

@@ -1,0 +1,39 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_93929080_AECD_91D8_41CD_A3EDA5517F1E.source = https://www.facebook.com/SectionArchitecture/
+LinkBehaviour_91A2E632_AECD_9138_41D1_06E45247493A.source = https://www.facebook.com/SectionArchitecture/
+LinkBehaviour_939931D1_AECD_B378_41E2_EAC3B219E00C.source = https://www.facebook.com/hitimperial
+
+## Media
+
+### Title
+panorama_98010E62_84F2_0CE1_41B1_E27D078B4033.label = 01
+panorama_983C4905_84F2_1423_41C4_102C19470264.label = 02
+panorama_99D90E46_84F2_0C21_41D3_C936797675E8.label = 03
+panorama_98E91753_84F6_1C26_415D_EDFF33A65958.label = 04
+panorama_9856BE1A_84F6_0C21_41DE_724F9E7435ED.label = 05
+panorama_8870A884_841E_3421_41B4_ABEAE2F2998D.label = 06
+panorama_88705580_841E_1C21_41C0_858E007F1FF7.label = 07
+panorama_984F5001_84F6_7423_4141_CE486F9CE382.label = 08
+panorama_980CE6D2_84F6_1C21_41C2_995D1AE03245.label = 11
+panorama_98E48146_84F2_1421_41D7_919BB407DE9F.label = 12
+panorama_998227A1_84F6_1C63_41D1_5C1082D42EEA.label = 17
+
+## Skin
+
+### Image
+Image_BA4D2E02_AEE4_5A55_41DE_25AD3CC0CCE9.url = skin/Image_BA4D2E02_AEE4_5A55_41DE_25AD3CC0CCE9_en.png
+Image_BA4D2E02_AEE4_5A55_41DE_25AD3CC0CCE9_mobile.url = skin/Image_BA4D2E02_AEE4_5A55_41DE_25AD3CC0CCE9_mobile_en.png
+Image_BC5DA293_AEAC_4A7B_41D8_94EE6F817D73.url = skin/Image_BC5DA293_AEAC_4A7B_41D8_94EE6F817D73_en.png
+Image_BC5DA293_AEAC_4A7B_41D8_94EE6F817D73_mobile.url = skin/Image_BC5DA293_AEAC_4A7B_41D8_94EE6F817D73_mobile_en.png
+
+## Tour
+
+### Description
+tour.description = "SECTION ARCHITECTURE" sh.p.k
+
+### Title
+tour.name = "SECTION ARCHITECTURE" sh.p.k

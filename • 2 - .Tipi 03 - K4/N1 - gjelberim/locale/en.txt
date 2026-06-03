@@ -1,0 +1,34 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_92C20618_8913_2DA7_41AF_63F4A0B5EF20.source = https://www.facebook.com/SectionArchitecture/
+LinkBehaviour_93929080_AECD_91D8_41CD_A3EDA5517F1E.source = https://www.facebook.com/SectionArchitecture/
+
+## Media
+
+### Title
+panorama_84F5F8DC_8915_E65E_41D1_A2969472D426.label = 19
+panorama_85F0A033_8915_25EA_41DB_478A3CE8D6B7.label = 20
+panorama_85CE75AA_8915_2EFB_418A_C728806CDCF9.label = 21
+panorama_85F1BB22_8915_3BEB_41D6_7A0B03A1375D.label = 22
+panorama_85F1807A_8915_265B_41B0_82F7065C5FEF.label = 23 J
+panorama_85F0A5B6_8915_2EEA_41C6_69AACD64FE90.label = 24
+panorama_85F17A75_8915_1A69_41D0_C584036C9196.label = A 01
+
+## Skin
+
+### Image
+Image_BA4D2E02_AEE4_5A55_41DE_25AD3CC0CCE9.url = skin/Image_BA4D2E02_AEE4_5A55_41DE_25AD3CC0CCE9_en.png
+Image_BA4D2E02_AEE4_5A55_41DE_25AD3CC0CCE9_mobile.url = skin/Image_BA4D2E02_AEE4_5A55_41DE_25AD3CC0CCE9_mobile_en.png
+Image_BC5DA293_AEAC_4A7B_41D8_94EE6F817D73.url = skin/Image_BC5DA293_AEAC_4A7B_41D8_94EE6F817D73_en.png
+Image_BC5DA293_AEAC_4A7B_41D8_94EE6F817D73_mobile.url = skin/Image_BC5DA293_AEAC_4A7B_41D8_94EE6F817D73_mobile_en.png
+
+## Tour
+
+### Description
+tour.description = "SECTION ARCHITECTURE" sh.p.k
+
+### Title
+tour.name = "SECTION ARCHITECTURE" sh.p.k
